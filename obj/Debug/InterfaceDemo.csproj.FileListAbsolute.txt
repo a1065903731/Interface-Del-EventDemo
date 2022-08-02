@@ -1,0 +1,7 @@
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
+D:\CodeStudy\InterfaceTest\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
